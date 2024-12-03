@@ -1,4 +1,9 @@
 site_name: TengLi's Blog
 site_url: https://lnteng.github.io/
+
+nav:
+  - Home: index.md
+
+
 theme:
   name: material
