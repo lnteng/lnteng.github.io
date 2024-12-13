@@ -1,17 +1,36 @@
-# Welcome to MkDocs
+# Teng Li
+**M.S.**  
+**Department of Computer Science**  
+**University of Electronic Science and Technology of China (UESTC)**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Email**: tengli[at]gmail.com | **Website**: [lnteng.github.io](https://lnteng.github.io/) | **GitHub**: [github.com/lnteng](https://github.com/lnteng)
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Biography
+I am pursuing the M.S. degree from University of Electronic Science and Technology of China (UESTC) from 2023 to 2026. My research interests include blockchain, smart contract and program analysis.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Education
+- **Master**, University of Electronic Science and Technology of China, Chengdu
+  *[Aug 2023 – Present]*  
+
+- **Bachelor**, China University of Geosciences (Wuhan), Wuhan
+  *[Aug 2019 – Jun 2023]*  
+
+---
+
+## Skills
+- **Programming Languages**: Python, Java, C++
+- **Technologies**: Program Analysis, Reverse Engineering
+- **Other Skills**: Smart Contract Security, Compiler Theory
+
+---
+
+## Publications
+- **[Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis](https://dl.acm.org/doi/abs/10.1145/3650212.3680391)**  
+  *Published in the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024).*  
+
+- **[Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects](https://dl.acm.org/doi/abs/10.1145/3650212.3680391)**  
+  *Published in the 47th International Conference on Software Engineering (ICSE 2025).*  
