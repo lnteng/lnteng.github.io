@@ -32,5 +32,5 @@ I am pursuing the M.S. degree from University of Electronic Science and Technolo
 - **[Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis](https://dl.acm.org/doi/abs/10.1145/3650212.3680391)**  
   *Published in the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024).*  
 
-- **[Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects](https://dl.acm.org/doi/abs/10.1145/3650212.3680391)**  
+- **[Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects](https://arxiv.org/abs/2501.06459)**  
   *Published in the 47th International Conference on Software Engineering (ICSE 2025).*  
